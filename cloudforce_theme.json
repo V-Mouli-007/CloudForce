@@ -1,0 +1,53 @@
+{
+  "name": "CloudForce Cyber",
+  "dataColors": [
+    "#00FF9F",
+    "#00E5FF",
+    "#FF1744",
+    "#FFD600",
+    "#B388FF",
+    "#FF6D00"
+  ],
+  "background": "#0B0F19",
+  "foreground": "#E6FFF5",
+  "tableAccent": "#00FF9F",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#0B0F19"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#111827"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "title": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#00FF9F"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
