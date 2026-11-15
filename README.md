@@ -1,7 +1,9 @@
 # CloudForce
 Cloud Authentication Attack Surface & Brute-Force Visualizer
 Subject: Data Analysis & Visualization (G5AD21DAV)
-Author: V. Mouli (240031101631054), B.Tech CSE Sem-5
+
+Authors: V.Mouli (240031101631054) & Samanvay Patel (240031101631054), 
+B.Tech CSE Sem-5
 
 ## What it does
 Generates synthetic cloud login logs with an injected brute-force attack,
