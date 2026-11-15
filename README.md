@@ -2,7 +2,7 @@
 Cloud Authentication Attack Surface & Brute-Force Visualizer
 Subject: Data Analysis & Visualization (G5AD21DAV)
 
-Authors: V.Mouli (240031101631054) & Samanvay Patel (240031101631054), 
+Authors: V.Mouli (240031101631054) & Samanvay Patel (240031101631040), 
 B.Tech CSE Sem-5
 
 ## What it does
